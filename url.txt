@@ -1,0 +1,5 @@
+dataset
+https://www.kaggle.com/datasets/jay7080dev/rice-plant-diseases-dataset/data
+
+model
+https://drive.google.com/file/d/1Gni4A24zwO8VoYKwVGSIK24g3CUIgdu2/view?usp=sharing
